@@ -1,5 +1,7 @@
 English | [简体中文](README.zh-CN.md)
 
+<img src="assets/icon.svg" width="88" height="88" alt="Codex Imagegen icon">
+
 # Codex Imagegen for Claude Code
 
 Give Claude Code an image-making companion for design work. Codex Imagegen is a small Claude skill that asks your local Codex CLI to create image assets, then helps Claude use them in your project.

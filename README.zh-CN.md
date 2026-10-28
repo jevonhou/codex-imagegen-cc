@@ -1,5 +1,7 @@
 [English](README.md) | 简体中文
 
+<img src="assets/icon.svg" width="88" height="88" alt="Codex Imagegen 图标">
+
 # Codex Imagegen for Claude Code
 
 给 Claude Code 一个设计生图搭档。Codex Imagegen 是一个轻量 Claude Skill：让 Claude 调用你本机的 Codex CLI 生成图片素材，再将素材用于当前项目。

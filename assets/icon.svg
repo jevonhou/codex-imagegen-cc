@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title">
+  <title id="title">Codex Imagegen icon</title>
+  <rect width="400" height="400" rx="64" fill="#f6f4ef"/>
+  <g transform="translate(35 36) scale(.83)">
+    <path fill="#1c1b1a" d="M26 110c0-12 6-17 17-22L223 7c11-5 20 1 20 13v67l-132 58c-8 4-12 11-12 20v54l-59 25c-9 4-14-2-14-12V110Z"/>
+    <path fill="#eb715d" d="M120 175c0-10 5-16 15-20l120-51c12-5 19 0 19 12v59l-106 48c-7 3-11 10-11 19v40l-23 11c-9 4-14-1-14-10V175Z"/>
+    <path fill="#1c1b1a" d="M176 250c0-10 5-15 14-19l161-70c11-5 18 0 18 11v123c0 9-5 15-14 19l-161 73c-11 5-18 0-18-11V250Z"/>
+  </g>
+</svg>
